@@ -1,0 +1,1 @@
+Codes for the simulation of the model in the paper "Analysis of the autocorrelation function for time series with higher-order temporal correlations: An exponential case" by Min-ho Yu and Hang-Hyun Jo [https://arxiv.org/abs/2502.11043]
