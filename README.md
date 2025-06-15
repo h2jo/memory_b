@@ -1,1 +1,1 @@
-Codes for the simulation of the bursty time series model proposed in the paper "Analysis of the autocorrelation function for time series with higher-order temporal correlations: An exponential case" by Min-ho Yu and Hang-Hyun Jo [arXiv:2502.11043]
+Codes for the simulation of the bursty time series model proposed in the paper "Analysis of the autocorrelation function for time series with higher-order temporal correlations: An exponential case" by Min-ho Yu and Hang-Hyun Jo [Physica D 481, 134779 (2025)][arXiv:2502.11043]
